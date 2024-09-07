@@ -9,7 +9,8 @@ ZCZC W00 50 L06 Taking notes from book and slide reference
 ZCZC W00 45 L73 Playing online mobile games
 
 ZCZC W01 100 L02 Attend offline class
-ZCZC W01 90 L11 Doing assignment 1
+ZCZC W01 150 L11 Doing assignment 1
 ZCZC W01 10 L31 Installing VirtualBox
 ZCZC W01 60 L70 Studying Data Structure & Algorithm
 ZCZC W01 120 L73 Playing online mobile games
+ZCZC W01 90 L81 Listening to musics on Spotify
