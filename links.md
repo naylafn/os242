@@ -13,4 +13,3 @@ description: "A list of useful links for reference."
 - [Linux Basics](https://youtu.be/CpTfQ-q6MPU) | Beginner-friendly tutorial on Linux basics.
 - [Linux Documentation Project](https://www.tldp.org/) | Learning about Linux-based operating systems with guides and tutorials.
 - [Regular Expressions (Regex)](https://www.youtube.com/watch?v=bgBWp9EIlMM) | Common expressions, syntax, and practical examples.
-- 
