@@ -1,4 +1,4 @@
-permalink: /LINKS/
+permalink: LINKS/
 ---
 
 title: "Learning Resources"
