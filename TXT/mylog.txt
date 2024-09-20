@@ -22,3 +22,15 @@ ZCZC W02 120 L73 Playing online mobile games
 ZCZC W02 160 L80 Waching: Movie, Netflix.
 ZCZC W02 90 L81 Listening to musics on Spotify
 ZCZC W02 720 L84 Relax, Rest, Nap, and Sleep
+
+ZCZC w03 50 L02 Attend offline class
+ZCZC W03 40 L01 Discussing problems in general forum
+ZCZC W03 50 L06 Taking notes from book and slide reference
+ZCZC w03 60 L13 Assignment #03
+ZCZC W03 30 L26 Fixing GnuPG, encrypt/decrypt TARBALL
+ZCZC W03 30 L41 Updating TXT/mylog.txt
+ZCZC W03 60 L70 Studying for Stats and Probability.
+ZCZC w03 90 L73 Playing online mobile games
+ZCZC w03 60 L80 Wathing Netflix
+ZCZC w03 90 L81 Listening music on Spotify
+ZCZC w03 720 L84 Relax, Rest, Nap, and Sleep
