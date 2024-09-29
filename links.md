@@ -16,3 +16,4 @@ description: "A list of useful links for reference."
 - [Linux Documentation Project](https://www.tldp.org/) | Learning about Linux-based operating systems with guides and tutorials.
 - [Regular Expressions (Regex)](https://www.youtube.com/watch?v=bgBWp9EIlMM) | Common expressions, syntax, and practical examples.
 - [File System in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/) | Introduction to File System
+- [What is Mounting?](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux) --- This article contains introduction to mounting in Linux and commands that we can use in Linux terminal.
