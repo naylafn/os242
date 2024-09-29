@@ -34,3 +34,13 @@ ZCZC w03 90 L73 Playing online mobile games
 ZCZC w03 60 L80 Wathing Netflix
 ZCZC w03 90 L81 Listening music on Spotify
 ZCZC w03 720 L84 Relax, Rest, Nap, and Sleep
+
+ZCZC W04 100 L02 Attend offline class
+ZCZC W04 20 L05 Quiz related including studying
+ZCZC W04 50 L06 Taking notes from book and slide reference
+ZCZC W04 50 L14 Assignment #04
+ZCZC W04 30 L26 Fixing GnuPG, encrypt/decrypt TARBALL
+ZCZC W04 30 L41 Updating TXT/mylog.txt
+ZCZC W04 10 L42 updating TXT/mypubkey.txt
+ZCZC W04 60 L70 Studying data structure and algorithms
+ZCZC w04 90 L81 Listening musics
