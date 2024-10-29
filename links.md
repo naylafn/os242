@@ -22,3 +22,7 @@ description: "A list of useful links for reference."
 - [Basics of Virtual Memory](https://youtu.be/8yO2FBBfaB0?si=um1DuvlOIVSZphpG): This video explains about virtual memory in basic.
 - [Allocation of Frames in Operating System](https://www.geeksforgeeks.org/operating-system-allocation-frames/): This article explains about algorithms that can be used to do frame allocation.
 - [Commands to Check Memory Usage in Linux](https://phoenixnap.com/kb/linux-commands-check-memory-usage): This article contains tutorial of the commands used to check memory usage in Linux operating system.
+- [What is Mounting?](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux) | This article contains introduction to mounting in Linux and commands that we can use in Linux terminal.
+- [Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170) | This article explains about kernel panic and what causes it.
+- [Introduction to Docusaurus](https://docusaurus.io/docs#:~:text=Docusaurus%20is%20built%20with%20high,providing%20your%20own%20React%20components) | This website can help you make another Docusaurus projects.
+- [Creating new processes with fork()!](https://youtu.be/ss1-REMJ9GA?si=KP-0zWE1SopTCGsX)
