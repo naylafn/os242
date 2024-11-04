@@ -26,3 +26,5 @@ description: "A list of useful links for reference."
 - [Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170) | This article explains about kernel panic and what causes it.
 - [Introduction to Docusaurus](https://docusaurus.io/docs#:~:text=Docusaurus%20is%20built%20with%20high,providing%20your%20own%20React%20components) | This website can help you make another Docusaurus projects.
 - [Creating new processes with fork()!](https://youtu.be/ss1-REMJ9GA?si=KP-0zWE1SopTCGsX)
+- READING LIVE MEM [Reading living process memory without interrupting it](https://stackoverflow.com/questions/12977179/reading-living-process-memory-without-interrupting-it)
+- mmap vs malloc [C MEMORY ALLOCATION FUNCTION] | (https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c)
