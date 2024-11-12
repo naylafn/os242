@@ -28,3 +28,6 @@ description: "A list of useful links for reference."
 - [Creating new processes with fork()!](https://youtu.be/ss1-REMJ9GA?si=KP-0zWE1SopTCGsX)
 - READING LIVE MEM [Reading living process memory without interrupting it](https://stackoverflow.com/questions/12977179/reading-living-process-memory-without-interrupting-it)
 - mmap vs malloc [C MEMORY ALLOCATION FUNCTION] | (https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c)
+- [**Chapter 5 of Linux From Scratch**](https://youtu.be/vMdPHpPiy4Q?si=zvpaNmrP__u9ynR7) | Linux from scratch tutorial video
+- * [Necessary conditions for Deadlock](https://youtu.be/x9FF723STvo?si=U2gYxjWQMX1zRcCi) --- An overview of deadlock and the four necessary conditions that must be met for it to occur.
+- * [Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=QgMiZs_RxkEi3j7m) --- An overview of process scheduling, detailing how the OS allocates CPU time to processes for efficient execution.
