@@ -31,3 +31,7 @@ description: "A list of useful links for reference."
 - [**Chapter 5 of Linux From Scratch**](https://youtu.be/vMdPHpPiy4Q?si=zvpaNmrP__u9ynR7) | Linux from scratch tutorial video
 - * [Necessary conditions for Deadlock](https://youtu.be/x9FF723STvo?si=U2gYxjWQMX1zRcCi) --- An overview of deadlock and the four necessary conditions that must be met for it to occur.
 - * [Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=QgMiZs_RxkEi3j7m) --- An overview of process scheduling, detailing how the OS allocates CPU time to processes for efficient execution.
+
+* [What is Linux swap?](https://youtu.be/0mgefj9ibRE?si=HwEKx2s9juZlI--I) --- Explains Linux swap, its purpose, and how it helps manage memory when RAM is full.  
+
+* [What is a Paging File or Pagefile as Fast As Possible](https://youtu.be/1VDP5TCAK2c?si=Xr7P4E0-g9orD0bS) --- A quick explanation of the paging file, how it works, and its role in virtual memory.

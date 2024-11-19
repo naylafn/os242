@@ -88,3 +88,14 @@ ZCZC W08 90 L73 Playing online mobile games
 ZCZC W08 90 L81 Listening musics
 ZCZC W08 60 L70 Studying statistics and probability
 ZCZC W08 40 L01 Discussing problems in general forum
+
+ZCZC W09 100 L02 Attend offline class
+ZCZC W09 20 L05 Quiz related including studying
+ZCZC W09 120 L19 Assignment #09
+ZCZC W09 30 L41 Updating TXT/mylog.txt
+ZCZC W09 10 L42 updating TXT/mypubkey.txt
+ZCZC W09 120 L80 Wathing Netflix
+ZCZC W09 90 L73 Playing online mobile games
+ZCZC W09 90 L81 Listening musics
+ZCZC W09 60 L70 Studying statistics and probability
+ZCZC W09 40 L01 Discussing problems in general forum
