@@ -99,3 +99,17 @@ ZCZC W09 90 L73 Playing online mobile games
 ZCZC W09 90 L81 Listening musics
 ZCZC W09 60 L70 Studying statistics and probability
 ZCZC W09 40 L01 Discussing problems in general forum
+
+ZCZC W10 100 L02 Attend offline class
+ZCZC W10 20 L05 Quiz related including studying
+ZCZC W10 120 L20 Assignment #10
+ZCZC W10 30 L41 Updating TXT/mylog.txt
+ZCZC W10 10 L42 updating TXT/mypubkey.txt
+ZCZC W10 120 L80 Wathing Netflix
+ZCZC W10 90 L73 Playing online mobile games
+ZCZC W10 90 L81 Listening musics
+ZCZC W10 60 L70 Studying statistics and probability
+ZCZC W10 40 L01 Discussing problems in general forum
+ZCZC W10 60 L61 Backup Virtual Box LFS system
+ZCZC W10 180 L32 YouTube: watching kernotex Linux From Scratch Tutorial
+ZCZC W10 45 L82 Reading Book (paper)

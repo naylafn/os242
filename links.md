@@ -35,3 +35,9 @@ description: "A list of useful links for reference."
 * [What is Linux swap?](https://youtu.be/0mgefj9ibRE?si=HwEKx2s9juZlI--I) --- Explains Linux swap, its purpose, and how it helps manage memory when RAM is full.  
 
 * [What is a Paging File or Pagefile as Fast As Possible](https://youtu.be/1VDP5TCAK2c?si=Xr7P4E0-g9orD0bS) --- A quick explanation of the paging file, how it works, and its role in virtual memory.
+
+- [LFS Chapter 8 Tutorial](https://youtu.be/ReIeiTqYTGc?si=vVUzuve9TA-DsUc_)
+
+- [LFS book guide](https://linuxfromscratch.org/lfs/read.html)
+
+- [I/O Principles](https://www.sobyte.net/post/2022-03/linux-io-and-zero-copy/)
